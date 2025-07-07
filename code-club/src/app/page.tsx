@@ -24,7 +24,7 @@ export default function Home() {
       period: "2025년 4월 29일 ~ 2025년 6월 3일",
       tags: ["팀별 활동", "프로젝트", "발표"],
       emoji: "💻",
-      image:"https://file.notion.so/f/f/f6139788-f8f8-4586-a8b5-5a71317a4704/46e07b52-0c58-44e4-88b0-c6f86b982736/KakaoTalk_20250702_153956582_14.jpg?table=block&id=22416d49-8843-80f4-9baf-e76212a5f8e2&spaceId=f6139788-f8f8-4586-a8b5-5a71317a4704&expirationTimestamp=1751932800000&signature=-Fwqzfjv0KXgWp_R0di0gX6E8vGZKu3QvmvRkbpx_mY&downloadName=KakaoTalk_20250702_153956582_14.jpg",
+      image:"https://www.notion.so/image/attachment%3A6d118abe-06ca-4522-a5fd-c01b11fb2c80%3A4%EA%B8%B01%EC%A1%B0%EC%82%AC%EC%A7%84.jpg?table=block&id=22416d49-8843-80f2-8bcd-cb17d9b70077&spaceId=f6139788-f8f8-4586-a8b5-5a71317a4704&width=2000&userId=febdf966-604c-4949-9bc0-767e3a52a86c&cache=v2",
       description: "팀별로 주제를 정해 실제 프로젝트를 기획·구현하고 결과를 발표하는 실전 경험 과정입니다.",
     },
     {
@@ -32,7 +32,7 @@ export default function Home() {
       period: "2025년 9월 2일 ~ 2025년 9월 30일",
       tags: ["팀별 활동", "프로젝트", "발표"],
       emoji: "💡",
-      image: "https://file.notion.so/f/f/1a96065e-61ba-46d6-98fb-717334efc693/3e0dbb82-ada0-4181-af6b-5f312754a10d/KakaoTalk_20241008_194529497_05.jpg?table=block&id=19cd6cff-ff80-450c-9ef5-4d3d8b46a821&spaceId=1a96065e-61ba-46d6-98fb-717334efc693&expirationTimestamp=1751932800000&signature=cQaJSzj1hw4fQ6ghB9dViQJpON7aU0xJFNJavNqmSzo&downloadName=KakaoTalk_20241008_194529497_05.jpg",
+      image: "https://www.notion.so/image/attachment%3Abaf245f7-f185-4a14-9142-96c39ecafb7e%3A%EA%B3%B5%EA%B3%B5%EC%95%BD%EA%B5%AD%EC%82%AC%EC%A7%84.jpg?table=block&id=22816d49-8843-80e5-8baa-c6aeb4819601&spaceId=f6139788-f8f8-4586-a8b5-5a71317a4704&width=2000&userId=febdf966-604c-4949-9bc0-767e3a52a86c&cache=v2",
       description: "관심 있는 주제를 자유롭게 선정해 팀별로 프로젝트를 수행하는 창의적 활동입니다.",
     },
   ];
@@ -52,7 +52,7 @@ export default function Home() {
       period: "2025년 4월 29일 ~ 2025년 6월 1일",
       tags: ["팀별 활동", "WIL", "프로젝트"],
       emoji: "💻",
-      image:"https://file.notion.so/f/f/f6139788-f8f8-4586-a8b5-5a71317a4704/294f6c01-fd08-4be0-9ba4-960a33904340/KakaoTalk_20250604_144311823.jpg?table=block&id=22416d49-8843-80a6-bd62-eb7cc58f03c1&spaceId=f6139788-f8f8-4586-a8b5-5a71317a4704&expirationTimestamp=1751932800000&signature=R-VM-zdweWSX2bkup2H_JnLxxgUFx5HAO3KFU90wMcM&downloadName=KakaoTalk_20250604_144311823.jpg",
+      image:"https://www.notion.so/image/attachment%3A4f99db19-1fd2-4934-80d8-92bcec207deb%3AKakaoTalk_20250604_144311823.jpg?table=block&id=22416d49-8843-8045-a2a2-df3d29ecd880&spaceId=f6139788-f8f8-4586-a8b5-5a71317a4704&width=2000&userId=febdf966-604c-4949-9bc0-767e3a52a86c&cache=v2",
       description: "관심 분야를 직접 선정해 팀별로 프로젝트를 기획·구현하는 심화 활동입니다.",
     },
     {
@@ -60,7 +60,7 @@ export default function Home() {
       period: "2025년 8월 5일 ~ 2025년 9월 1일",
       tags: ["팀별 활동", "프로젝트"],
       emoji: "🤖",
-   image:"https://file.notion.so/f/f/1a96065e-61ba-46d6-98fb-717334efc693/99d21ba7-efe9-42d6-aa21-80596e43d859/KakaoTalk_20241008_194529497_07.jpg?table=block&id=19cd6cff-ff80-450c-9ef5-4d3d8b46a821&spaceId=1a96065e-61ba-46d6-98fb-717334efc693&expirationTimestamp=1751932800000&signature=Lo1a6aJxZpUTZQtKp0oI797muZDIVdaNHa2xbjFvP0c&downloadName=KakaoTalk_20241008_194529497_07.jpg",
+   image:"https://www.notion.so/image/attachment%3A5c643df2-d112-495e-9fa3-2ab3b3be2cad%3AKakaoTalk_20250604_144311823_03.jpg?table=block&id=22416d49-8843-80bf-b033-dcd6bf615a18&spaceId=f6139788-f8f8-4586-a8b5-5a71317a4704&width=2000&userId=febdf966-604c-4949-9bc0-767e3a52a86c&cache=v2",
       description: "자연어처리 이론과 실습을 팀별로 진행하는 프로젝트형 스터디입니다.",
     },
     {
